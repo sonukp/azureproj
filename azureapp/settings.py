@@ -1,0 +1,4 @@
+CLIENT_ID = "bf93efff-3b94-4be6-bd1e-5bdcb74898b9"
+SECRET = "9d0r-2qURH6EWEjFD@V=i_dcb.iRzFV0"
+TENANT_ID = "50168270-100b-4032-add4-7bf6b0a4ea01"
+
